@@ -1,3 +1,5 @@
+
+
 a {
   text-decoration: none;
   color: #66BFBF;
@@ -8,25 +10,32 @@ a:hover {
   color: #CCF2F4;
 }
 
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #C1CFC0;
+  margin: 30px auto;
+  background-color: #F4F9F9;
+}
+
 .top {
   padding: 2rem 0;
-  background-color: #F4F9F9;
   padding-bottom: 4;
 }
 
 .middle {
   padding: 2%;
-  background-color: #F4F9F9;
   padding-bottom: 4%;
 }
 
 .bottom {
   padding: 2rem 0;
-  background-color: #F4F9F9;
 }
 
 .container-fluid {
   padding: 0 2%;
+background-color: #F4F9F9;
 }
 
 .tododiv {
@@ -35,8 +44,8 @@ a:hover {
 }
 
 .todoimg {
-  width: 600;
-  height: 500;
+  width: 730px;
+  height: 500px;
   padding-left: 4.5%;
   margin: 0 8%;
 }
@@ -71,7 +80,12 @@ a:hover {
   margin: 0 8% 0 13%;
 }
 
+.techstack2 {
+  padding: 0 30%;
+}
+
 .newslettertxt {
   text-align: left;
   padding: 4% 8%;
+  line-height: 2;
 }
