@@ -1,0 +1,75 @@
+a {
+  text-decoration: none;
+  color: #66BFBF;
+  margin: absolute;
+}
+
+a:hover {
+  color: #CCF2F4;
+}
+
+.top {
+  padding: 2rem 0;
+  background-color: #F4F9F9;
+}
+
+.middle {
+  padding: 2%;
+  background-color: #F4F9F9;
+}
+
+.bottom {
+  padding: 2rem 0;
+  background-color: #F4F9F9;
+}
+
+.container-fluid {
+  padding: 0 2%;
+}
+
+.tododiv {
+  margin: 0;
+  display: inline-grid;
+}
+
+.todoimg {
+  width: 600;
+  height: 500;
+  padding-left: 4.5%;
+  margin: 0 8%;
+}
+
+.todoimg: hover img {
+  transform: scale(.5);
+}
+
+.todotext {
+  text-align: left;
+  padding: 0 8%;
+  line-height: 2;
+}
+
+.des-size {
+  font-size: 1.3rem;
+}
+
+.list {
+  padding: 0 28%;
+}
+
+.techstack {
+  padding: 0 24%;
+}
+
+.newsletterimg {
+  float: left;
+  width: 730px;
+  height: 600px;
+  padding-right: 4.5%;
+  margin: 0 8% 0 13%;
+}
+
+.newslettertxt {
+  text-align: left;
+  padding: 0 8%;
+}
