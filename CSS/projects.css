@@ -11,11 +11,13 @@ a:hover {
 .top {
   padding: 2rem 0;
   background-color: #F4F9F9;
+  padding-bottom: 4;
 }
 
 .middle {
   padding: 2%;
   background-color: #F4F9F9;
+  padding-bottom: 4%;
 }
 
 .bottom {
@@ -45,7 +47,7 @@ a:hover {
 
 .todotext {
   text-align: left;
-  padding: 0 8%;
+  padding: 0 8% 2% 8%;
   line-height: 2;
 }
 
@@ -71,5 +73,5 @@ a:hover {
 
 .newslettertxt {
   text-align: left;
-  padding: 0 8%;
+  padding: 4% 8%;
 }
